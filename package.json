@@ -36,17 +36,17 @@
     "@nuxtjs/color-mode": "^3.4.1",
     "@nuxtjs/i18n": "^8.3.1",
     "@nuxtjs/tailwindcss": "^6.12.0",
-    "@types/node": "^20.14.2",
-    "@vite-pwa/nuxt": "^0.8.0",
+    "@types/node": "^20.14.8",
+    "@vite-pwa/nuxt": "^0.8.1",
     "changelogen": "^0.5.5",
     "eslint": "^9.5.0",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.7",
     "nuxt": "^3.12.2",
     "nuxt-icon": "^0.6.10",
-    "typescript": "^5.4.5",
+    "typescript": "^5.5.2",
     "vitepress": "^1.2.3",
-    "vue-tsc": "^2.0.21"
+    "vue-tsc": "^2.0.22"
   },
   "resolutions": {
     "rollup": "npm:@rollup/wasm-node"
